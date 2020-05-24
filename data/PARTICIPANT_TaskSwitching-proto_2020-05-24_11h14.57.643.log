@@ -1,0 +1,557 @@
+0.648105000029318	EXP	Created Window = Window( name=Window, fullscr=true, color=#808080, units=height, waitBlanking=true, autoLog=true, size=[1366,625] )
+4.149780000036117	EXP	Created text = TextStim( name=text, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=TESTING
+
+*note to have images of stimuli in here
+*~, font=Arial, color=#FFFFFF, contrast=1, height=0.04, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.156365000002552	EXP	Created instruction_1 = TextStim( name=instruction_1, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=press 'left' if you see a triangle
+press 'right' i~, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.157844999979716	EXP	Created fixa = TextStim( name=fixa, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=+, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.163025000016205	EXP	Created grid_practice = ImageStim( name=grid_practice, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0.12], size=[0.5,0.25], image={}, mask=undefined, color=#ffffff, contrast=1, texRes=128, interpolate=true, depth=null, flipHoriz=null, flipVert=null )
+4.164685000025202	EXP	Created stim_practice1 = TextStim( name=stim_practice1, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.2, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.166239999991376	EXP	Created instruction_2 = TextStim( name=instruction_2, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=press 'b' if you see one dot
+press 'n' if you see ~, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.179705000016838	EXP	Created fixa = TextStim( name=fixa, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=+, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.182704999984708	EXP	Created grid_2 = ImageStim( name=grid_2, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,-0.12], size=[0.5,0.25], image={}, mask=undefined, color=#ffffff, contrast=1, texRes=128, interpolate=true, depth=null, flipHoriz=null, flipVert=null )
+4.19031500001438	EXP	Created stim_practice2 = TextStim( name=stim_practice2, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.2, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.191785000031814	EXP	Created instructions3 = TextStim( name=instructions3, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=press 'left' if you see a triangle
+press 'right' i~, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.193465000018477	EXP	Created fixa = TextStim( name=fixa, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=+, font=Arial, color=#FFFFFF, contrast=1, height=0.1, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.19771000003675	EXP	Created stimu = TextStim( name=stimu, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=undefined, text=default text, font=Arial, color=#FFFFFF, contrast=1, height=0.2, bold=null, italic=null, alignHoriz=left, alignVert=center, wrapWidth=1, flipHoriz=null, flipVert=null )
+4.226439999998547	EXP	Created image = ImageStim( name=image, win=Window( name=Window, fullscr=true, color=#808080, ~), autoDraw=null, autoLog=true, units=height, ori=null, opacity=1, pos=[0,0], size=[0.5,0.5], image={}, mask=undefined, color=#ffffff, contrast=1, texRes=128, interpolate=true, depth=-2, flipHoriz=null, flipVert=null )
+4.303390000015497	EXP	text: units = "height"
+4.303390000015497	EXP	text: ori = 0
+4.303390000015497	EXP	text: opacity = 1
+4.303390000015497	EXP	text: pos = [0,0]
+4.303390000015497	EXP	text: size = undefined
+4.303390000015497	EXP	text: text = "TESTING\n\n*note to have images of stimuli in here\n*instructions with examples\n\n\npress space to continue"
+4.303390000015497	EXP	text: font = "Arial"
+4.303390000015497	EXP	text: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	text: contrast = 1
+4.303390000015497	EXP	text: height = 0.04
+4.303390000015497	EXP	text: bold = false
+4.303390000015497	EXP	text: italic = false
+4.303390000015497	EXP	text: alignHoriz = "left"
+4.303390000015497	EXP	text: alignVert = "center"
+4.303390000015497	EXP	text: wrapWidth = 1
+4.303390000015497	EXP	text: flipHoriz = false
+4.303390000015497	EXP	text: flipVert = false
+4.303390000015497	EXP	instruction_1: units = "height"
+4.303390000015497	EXP	instruction_1: ori = 0
+4.303390000015497	EXP	instruction_1: opacity = 1
+4.303390000015497	EXP	instruction_1: pos = [0,0]
+4.303390000015497	EXP	instruction_1: size = undefined
+4.303390000015497	EXP	instruction_1: text = "press 'left' if you see a triangle\npress 'right' if you see a square"
+4.303390000015497	EXP	instruction_1: font = "Arial"
+4.303390000015497	EXP	instruction_1: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	instruction_1: contrast = 1
+4.303390000015497	EXP	instruction_1: height = 0.1
+4.303390000015497	EXP	instruction_1: bold = false
+4.303390000015497	EXP	instruction_1: italic = false
+4.303390000015497	EXP	instruction_1: alignHoriz = "left"
+4.303390000015497	EXP	instruction_1: alignVert = "center"
+4.303390000015497	EXP	instruction_1: wrapWidth = 1
+4.303390000015497	EXP	instruction_1: flipHoriz = false
+4.303390000015497	EXP	instruction_1: flipVert = false
+4.303390000015497	EXP	fixa: units = "height"
+4.303390000015497	EXP	fixa: ori = 0
+4.303390000015497	EXP	fixa: opacity = 1
+4.303390000015497	EXP	fixa: pos = [0,0]
+4.303390000015497	EXP	fixa: size = undefined
+4.303390000015497	EXP	fixa: text = "+"
+4.303390000015497	EXP	fixa: font = "Arial"
+4.303390000015497	EXP	fixa: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	fixa: contrast = 1
+4.303390000015497	EXP	fixa: height = 0.1
+4.303390000015497	EXP	fixa: bold = false
+4.303390000015497	EXP	fixa: italic = false
+4.303390000015497	EXP	fixa: alignHoriz = "left"
+4.303390000015497	EXP	fixa: alignVert = "center"
+4.303390000015497	EXP	fixa: wrapWidth = 1
+4.303390000015497	EXP	fixa: flipHoriz = false
+4.303390000015497	EXP	fixa: flipVert = false
+4.303390000015497	EXP	grid_practice: units = "height"
+4.303390000015497	EXP	grid_practice: ori = 0
+4.303390000015497	EXP	grid_practice: opacity = 1
+4.303390000015497	EXP	grid_practice: pos = [0,0.12]
+4.303390000015497	EXP	grid_practice: size = [0.5,0.25]
+4.303390000015497	EXP	grid_practice: image = {}
+4.303390000015497	EXP	grid_practice: mask = undefined
+4.303390000015497	EXP	grid_practice: color = {"_rgb":[1,1,1]}
+4.303390000015497	EXP	grid_practice: contrast = 1
+4.303390000015497	EXP	grid_practice: texRes = 128
+4.303390000015497	EXP	grid_practice: interpolate = true
+4.303390000015497	EXP	grid_practice: depth = 0
+4.303390000015497	EXP	grid_practice: flipHoriz = false
+4.303390000015497	EXP	grid_practice: flipVert = false
+4.303390000015497	EXP	stim_practice1: units = "height"
+4.303390000015497	EXP	stim_practice1: ori = 0
+4.303390000015497	EXP	stim_practice1: opacity = 1
+4.303390000015497	EXP	stim_practice1: pos = [0,0]
+4.303390000015497	EXP	stim_practice1: size = undefined
+4.303390000015497	EXP	stim_practice1: text = "default text"
+4.303390000015497	EXP	stim_practice1: font = "Arial"
+4.303390000015497	EXP	stim_practice1: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	stim_practice1: contrast = 1
+4.303390000015497	EXP	stim_practice1: height = 0.2
+4.303390000015497	EXP	stim_practice1: bold = false
+4.303390000015497	EXP	stim_practice1: italic = false
+4.303390000015497	EXP	stim_practice1: alignHoriz = "left"
+4.303390000015497	EXP	stim_practice1: alignVert = "center"
+4.303390000015497	EXP	stim_practice1: wrapWidth = 1
+4.303390000015497	EXP	stim_practice1: flipHoriz = false
+4.303390000015497	EXP	stim_practice1: flipVert = false
+4.303390000015497	EXP	instruction_2: units = "height"
+4.303390000015497	EXP	instruction_2: ori = 0
+4.303390000015497	EXP	instruction_2: opacity = 1
+4.303390000015497	EXP	instruction_2: pos = [0,0]
+4.303390000015497	EXP	instruction_2: size = undefined
+4.303390000015497	EXP	instruction_2: text = "press 'b' if you see one dot\npress 'n' if you see two dots\n"
+4.303390000015497	EXP	instruction_2: font = "Arial"
+4.303390000015497	EXP	instruction_2: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	instruction_2: contrast = 1
+4.303390000015497	EXP	instruction_2: height = 0.1
+4.303390000015497	EXP	instruction_2: bold = false
+4.303390000015497	EXP	instruction_2: italic = false
+4.303390000015497	EXP	instruction_2: alignHoriz = "left"
+4.303390000015497	EXP	instruction_2: alignVert = "center"
+4.303390000015497	EXP	instruction_2: wrapWidth = 1
+4.303390000015497	EXP	instruction_2: flipHoriz = false
+4.303390000015497	EXP	instruction_2: flipVert = false
+4.303390000015497	EXP	fixa: units = "height"
+4.303390000015497	EXP	fixa: ori = 0
+4.303390000015497	EXP	fixa: opacity = 1
+4.303390000015497	EXP	fixa: pos = [0,0]
+4.303390000015497	EXP	fixa: size = undefined
+4.303390000015497	EXP	fixa: text = "+"
+4.303390000015497	EXP	fixa: font = "Arial"
+4.303390000015497	EXP	fixa: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	fixa: contrast = 1
+4.303390000015497	EXP	fixa: height = 0.1
+4.303390000015497	EXP	fixa: bold = false
+4.303390000015497	EXP	fixa: italic = false
+4.303390000015497	EXP	fixa: alignHoriz = "left"
+4.303390000015497	EXP	fixa: alignVert = "center"
+4.303390000015497	EXP	fixa: wrapWidth = 1
+4.303390000015497	EXP	fixa: flipHoriz = false
+4.303390000015497	EXP	fixa: flipVert = false
+4.303390000015497	EXP	grid_2: units = "height"
+4.303390000015497	EXP	grid_2: ori = 0
+4.303390000015497	EXP	grid_2: opacity = 1
+4.303390000015497	EXP	grid_2: pos = [0,-0.12]
+4.303390000015497	EXP	grid_2: size = [0.5,0.25]
+4.303390000015497	EXP	grid_2: image = {}
+4.303390000015497	EXP	grid_2: mask = undefined
+4.303390000015497	EXP	grid_2: color = {"_rgb":[1,1,1]}
+4.303390000015497	EXP	grid_2: contrast = 1
+4.303390000015497	EXP	grid_2: texRes = 128
+4.303390000015497	EXP	grid_2: interpolate = true
+4.303390000015497	EXP	grid_2: depth = 0
+4.303390000015497	EXP	grid_2: flipHoriz = false
+4.303390000015497	EXP	grid_2: flipVert = false
+4.303390000015497	EXP	stim_practice2: units = "height"
+4.303390000015497	EXP	stim_practice2: ori = 0
+4.303390000015497	EXP	stim_practice2: opacity = 1
+4.303390000015497	EXP	stim_practice2: pos = [0,0]
+4.303390000015497	EXP	stim_practice2: size = undefined
+4.303390000015497	EXP	stim_practice2: text = "default text"
+4.303390000015497	EXP	stim_practice2: font = "Arial"
+4.303390000015497	EXP	stim_practice2: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	stim_practice2: contrast = 1
+4.303390000015497	EXP	stim_practice2: height = 0.2
+4.303390000015497	EXP	stim_practice2: bold = false
+4.303390000015497	EXP	stim_practice2: italic = false
+4.303390000015497	EXP	stim_practice2: alignHoriz = "left"
+4.303390000015497	EXP	stim_practice2: alignVert = "center"
+4.303390000015497	EXP	stim_practice2: wrapWidth = 1
+4.303390000015497	EXP	stim_practice2: flipHoriz = false
+4.303390000015497	EXP	stim_practice2: flipVert = false
+4.303390000015497	EXP	instructions3: units = "height"
+4.303390000015497	EXP	instructions3: ori = 0
+4.303390000015497	EXP	instructions3: opacity = 1
+4.303390000015497	EXP	instructions3: pos = [0,0]
+4.303390000015497	EXP	instructions3: size = undefined
+4.303390000015497	EXP	instructions3: text = "press 'left' if you see a triangle\npress 'right' if you see a square\n\npress 'b' if you see one dot\npress 'n' if you see two dots"
+4.303390000015497	EXP	instructions3: font = "Arial"
+4.303390000015497	EXP	instructions3: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	instructions3: contrast = 1
+4.303390000015497	EXP	instructions3: height = 0.1
+4.303390000015497	EXP	instructions3: bold = false
+4.303390000015497	EXP	instructions3: italic = false
+4.303390000015497	EXP	instructions3: alignHoriz = "left"
+4.303390000015497	EXP	instructions3: alignVert = "center"
+4.303390000015497	EXP	instructions3: wrapWidth = 1
+4.303390000015497	EXP	instructions3: flipHoriz = false
+4.303390000015497	EXP	instructions3: flipVert = false
+4.303390000015497	EXP	fixa: units = "height"
+4.303390000015497	EXP	fixa: ori = 0
+4.303390000015497	EXP	fixa: opacity = 1
+4.303390000015497	EXP	fixa: pos = [0,0]
+4.303390000015497	EXP	fixa: size = undefined
+4.303390000015497	EXP	fixa: text = "+"
+4.303390000015497	EXP	fixa: font = "Arial"
+4.303390000015497	EXP	fixa: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	fixa: contrast = 1
+4.303390000015497	EXP	fixa: height = 0.1
+4.303390000015497	EXP	fixa: bold = false
+4.303390000015497	EXP	fixa: italic = false
+4.303390000015497	EXP	fixa: alignHoriz = "left"
+4.303390000015497	EXP	fixa: alignVert = "center"
+4.303390000015497	EXP	fixa: wrapWidth = 1
+4.303390000015497	EXP	fixa: flipHoriz = false
+4.303390000015497	EXP	fixa: flipVert = false
+4.303390000015497	EXP	stimu: units = "height"
+4.303390000015497	EXP	stimu: ori = 0
+4.303390000015497	EXP	stimu: opacity = 1
+4.303390000015497	EXP	stimu: pos = [0,0]
+4.303390000015497	EXP	stimu: size = undefined
+4.303390000015497	EXP	stimu: text = "default text"
+4.303390000015497	EXP	stimu: font = "Arial"
+4.303390000015497	EXP	stimu: color = {"_hex":"#FFFFFF","_rgb":[1,1,1]}
+4.303390000015497	EXP	stimu: contrast = 1
+4.303390000015497	EXP	stimu: height = 0.2
+4.303390000015497	EXP	stimu: bold = false
+4.303390000015497	EXP	stimu: italic = false
+4.303390000015497	EXP	stimu: alignHoriz = "left"
+4.303390000015497	EXP	stimu: alignVert = "center"
+4.303390000015497	EXP	stimu: wrapWidth = 1
+4.303390000015497	EXP	stimu: flipHoriz = false
+4.303390000015497	EXP	stimu: flipVert = false
+4.303390000015497	EXP	image: units = "height"
+4.303390000015497	EXP	image: ori = 0
+4.303390000015497	EXP	image: opacity = 1
+4.303390000015497	EXP	image: pos = [0,0]
+4.303390000015497	EXP	image: size = [0.5,0.5]
+4.303390000015497	EXP	image: image = {}
+4.303390000015497	EXP	image: mask = undefined
+4.303390000015497	EXP	image: color = {"_rgb":[1,1,1]}
+4.303390000015497	EXP	image: contrast = 1
+4.303390000015497	EXP	image: texRes = 128
+4.303390000015497	EXP	image: interpolate = true
+4.303390000015497	EXP	image: depth = -2
+4.303390000015497	EXP	image: flipHoriz = false
+4.303390000015497	EXP	image: flipVert = false
+4.303390000015497	EXP	text: autoDraw = true
+9.041685000003781	DATA	Keydown:  
+9.227705000026617	EXP	text: autoDraw = false
+9.227705000026617	EXP	instruction_1: autoDraw = true
+12.700929999991786	DATA	Keydown:  
+12.857145000016317	EXP	instruction_1: autoDraw = false
+12.857145000016317	EXP	fixa: autoDraw = true
+13.205394999997225	EXP	fixa: autoDraw = false
+13.205394999997225	EXP	stim_practice1: pos = [-0.12,0.12]
+13.205394999997225	EXP	stim_practice1: text = "▲"
+13.205394999997225	EXP	grid_practice: autoDraw = true
+13.205394999997225	EXP	stim_practice1: autoDraw = true
+14.031004999997094	DATA	Keydown: ArrowLeft
+14.050700000021607	EXP	grid_practice: autoDraw = false
+14.050700000021607	EXP	stim_practice1: autoDraw = false
+14.050700000021607	EXP	fixa: autoDraw = true
+14.457960000028834	EXP	fixa: autoDraw = false
+14.457960000028834	EXP	fixa: autoDraw = false
+14.457960000028834	EXP	stim_practice1: pos = [0.12,0.12]
+14.457960000028834	EXP	stim_practice1: text = "∎"
+14.457960000028834	EXP	grid_practice: autoDraw = true
+14.457960000028834	EXP	stim_practice1: autoDraw = true
+14.765530000033323	DATA	Keydown: ArrowRight
+14.779145000036806	EXP	grid_practice: autoDraw = false
+14.779145000036806	EXP	stim_practice1: autoDraw = false
+14.779145000036806	EXP	fixa: autoDraw = true
+15.181259999983013	EXP	fixa: autoDraw = false
+15.181259999983013	EXP	fixa: autoDraw = false
+15.181259999983013	EXP	stim_practice1: pos = [-0.12,0.12]
+15.181259999983013	EXP	stim_practice1: text = "▲"
+15.181259999983013	EXP	grid_practice: autoDraw = true
+15.181259999983013	EXP	stim_practice1: autoDraw = true
+15.431964999996126	DATA	Keydown: ArrowLeft
+15.444565000012517	EXP	grid_practice: autoDraw = false
+15.444565000012517	EXP	stim_practice1: autoDraw = false
+15.444565000012517	EXP	fixa: autoDraw = true
+15.851375000027474	EXP	fixa: autoDraw = false
+15.851375000027474	EXP	fixa: autoDraw = false
+15.851375000027474	EXP	stim_practice1: pos = [0.12,0.12]
+15.851375000027474	EXP	stim_practice1: text = "∎"
+15.851375000027474	EXP	grid_practice: autoDraw = true
+15.851375000027474	EXP	stim_practice1: autoDraw = true
+16.159909999987576	DATA	Keydown: ArrowRight
+16.17751499998849	EXP	grid_practice: autoDraw = false
+16.17751499998849	EXP	stim_practice1: autoDraw = false
+16.17751499998849	EXP	fixa: autoDraw = true
+16.577869999979157	EXP	fixa: autoDraw = false
+16.577869999979157	EXP	fixa: autoDraw = false
+16.577869999979157	EXP	stim_practice1: pos = [-0.12,0.12]
+16.577869999979157	EXP	stim_practice1: text = "∎"
+16.577869999979157	EXP	grid_practice: autoDraw = true
+16.577869999979157	EXP	stim_practice1: autoDraw = true
+16.950520000013057	DATA	Keydown: ArrowLeft
+16.96013000002131	EXP	grid_practice: autoDraw = false
+16.96013000002131	EXP	stim_practice1: autoDraw = false
+16.96013000002131	EXP	fixa: autoDraw = true
+17.361275000032037	EXP	fixa: autoDraw = false
+17.361275000032037	EXP	fixa: autoDraw = false
+17.361275000032037	EXP	stim_practice1: pos = [0.12,0.12]
+17.361275000032037	EXP	stim_practice1: text = "▲"
+17.361275000032037	EXP	grid_practice: autoDraw = true
+17.361275000032037	EXP	stim_practice1: autoDraw = true
+18.576935000019148	DATA	Keydown: ArrowLeft
+18.590120000008028	EXP	grid_practice: autoDraw = false
+18.590120000008028	EXP	stim_practice1: autoDraw = false
+18.590120000008028	EXP	fixa: autoDraw = true
+18.992339999997057	EXP	fixa: autoDraw = false
+18.992339999997057	EXP	fixa: autoDraw = false
+18.992339999997057	EXP	stim_practice1: pos = [-0.12,0.12]
+18.992339999997057	EXP	stim_practice1: text = "∎"
+18.992339999997057	EXP	grid_practice: autoDraw = true
+18.992339999997057	EXP	stim_practice1: autoDraw = true
+19.431924999982584	DATA	Keydown: ArrowRight
+19.439729999983683	EXP	grid_practice: autoDraw = false
+19.439729999983683	EXP	stim_practice1: autoDraw = false
+19.439729999983683	EXP	fixa: autoDraw = true
+19.846859999990556	EXP	fixa: autoDraw = false
+19.846859999990556	EXP	fixa: autoDraw = false
+19.846859999990556	EXP	stim_practice1: pos = [0.12,0.12]
+19.846859999990556	EXP	stim_practice1: text = "▲"
+19.846859999990556	EXP	grid_practice: autoDraw = true
+19.846859999990556	EXP	stim_practice1: autoDraw = true
+20.680489999998827	DATA	Keydown: ArrowRight
+20.701830000034533	EXP	grid_practice: autoDraw = false
+20.701830000034533	EXP	stim_practice1: autoDraw = false
+20.701830000034533	EXP	fixa: autoDraw = true
+21.0912000000244	EXP	fixa: autoDraw = false
+21.0912000000244	EXP	fixa: autoDraw = false
+21.0912000000244	EXP	stim_practice1: pos = [-0.12,0.12]
+21.0912000000244	EXP	stim_practice1: text = "▲"
+21.0912000000244	EXP	grid_practice: autoDraw = true
+21.0912000000244	EXP	stim_practice1: autoDraw = true
+21.846045000012964	DATA	Keydown: ArrowLeft
+21.875004999979865	EXP	grid_practice: autoDraw = false
+21.875004999979865	EXP	stim_practice1: autoDraw = false
+21.875004999979865	EXP	fixa: autoDraw = true
+22.2780849999981	EXP	fixa: autoDraw = false
+22.2780849999981	EXP	fixa: autoDraw = false
+22.2780849999981	EXP	stim_practice1: pos = [0.12,0.12]
+22.2780849999981	EXP	stim_practice1: text = "∎"
+22.2780849999981	EXP	grid_practice: autoDraw = true
+22.2780849999981	EXP	stim_practice1: autoDraw = true
+22.794645000016317	DATA	Keydown: ArrowRight
+22.82977499999106	EXP	grid_practice: autoDraw = false
+22.82977499999106	EXP	stim_practice1: autoDraw = false
+22.82977499999106	EXP	instruction_2: autoDraw = true
+24.52072000002954	DATA	Keydown:  
+24.5975150000304	EXP	instruction_2: autoDraw = false
+24.5975150000304	EXP	fixa: autoDraw = true
+24.968110000016168	EXP	fixa: autoDraw = false
+24.968110000016168	EXP	stim_practice2: pos = [0.12,-0.12]
+24.968110000016168	EXP	stim_practice2: text = "•"
+24.968110000016168	EXP	grid_2: autoDraw = true
+24.968110000016168	EXP	stim_practice2: autoDraw = true
+25.54681500000879	DATA	Keydown: b
+25.556600000010803	EXP	grid_2: autoDraw = false
+25.556600000010803	EXP	stim_practice2: autoDraw = false
+25.556600000010803	EXP	fixa: autoDraw = true
+25.971320000011474	EXP	fixa: autoDraw = false
+25.971320000011474	EXP	fixa: autoDraw = false
+25.971320000011474	EXP	stim_practice2: pos = [-0.12,-0.12]
+25.971320000011474	EXP	stim_practice2: text = "••"
+25.971320000011474	EXP	grid_2: autoDraw = true
+25.971320000011474	EXP	stim_practice2: autoDraw = true
+26.517775000014808	DATA	Keydown: n
+26.52990000002319	EXP	grid_2: autoDraw = false
+26.52990000002319	EXP	stim_practice2: autoDraw = false
+26.52990000002319	EXP	fixa: autoDraw = true
+26.93012999999337	EXP	fixa: autoDraw = false
+26.93012999999337	EXP	fixa: autoDraw = false
+26.93012999999337	EXP	stim_practice2: pos = [0.12,-0.12]
+26.93012999999337	EXP	stim_practice2: text = "••"
+26.93012999999337	EXP	grid_2: autoDraw = true
+26.93012999999337	EXP	stim_practice2: autoDraw = true
+27.800885000033304	DATA	Keydown: b
+27.81299000000581	EXP	grid_2: autoDraw = false
+27.81299000000581	EXP	stim_practice2: autoDraw = false
+27.81299000000581	EXP	fixa: autoDraw = true
+28.211465000000317	EXP	fixa: autoDraw = false
+28.211465000000317	EXP	fixa: autoDraw = false
+28.211465000000317	EXP	stim_practice2: pos = [-0.12,-0.12]
+28.211465000000317	EXP	stim_practice2: text = "•"
+28.211465000000317	EXP	grid_2: autoDraw = true
+28.211465000000317	EXP	stim_practice2: autoDraw = true
+28.64857999997912	DATA	Keydown: n
+28.660904999997	EXP	grid_2: autoDraw = false
+28.660904999997	EXP	stim_practice2: autoDraw = false
+28.660904999997	EXP	fixa: autoDraw = true
+29.062555000011344	EXP	fixa: autoDraw = false
+29.062555000011344	EXP	fixa: autoDraw = false
+29.062555000011344	EXP	stim_practice2: pos = [0.12,-0.12]
+29.062555000011344	EXP	stim_practice2: text = "•"
+29.062555000011344	EXP	grid_2: autoDraw = true
+29.062555000011344	EXP	stim_practice2: autoDraw = true
+29.628735000034794	DATA	Keydown: n
+29.638565000030212	EXP	grid_2: autoDraw = false
+29.638565000030212	EXP	stim_practice2: autoDraw = false
+29.638565000030212	EXP	fixa: autoDraw = true
+30.148259999987204	EXP	fixa: autoDraw = false
+30.148259999987204	EXP	fixa: autoDraw = false
+30.148259999987204	EXP	stim_practice2: pos = [-0.12,-0.12]
+30.148259999987204	EXP	stim_practice2: text = "••"
+30.148259999987204	EXP	grid_2: autoDraw = true
+30.148259999987204	EXP	stim_practice2: autoDraw = true
+30.446984999987762	DATA	Keydown: b
+30.467405000003055	EXP	grid_2: autoDraw = false
+30.467405000003055	EXP	stim_practice2: autoDraw = false
+30.467405000003055	EXP	fixa: autoDraw = true
+30.8768900000141	EXP	fixa: autoDraw = false
+30.8768900000141	EXP	fixa: autoDraw = false
+30.8768900000141	EXP	stim_practice2: pos = [0.12,-0.12]
+30.8768900000141	EXP	stim_practice2: text = "•"
+30.8768900000141	EXP	grid_2: autoDraw = true
+30.8768900000141	EXP	stim_practice2: autoDraw = true
+31.2425950000179	DATA	Keydown: n
+31.249744999979157	EXP	grid_2: autoDraw = false
+31.249744999979157	EXP	stim_practice2: autoDraw = false
+31.249744999979157	EXP	fixa: autoDraw = true
+31.647750000003725	EXP	fixa: autoDraw = false
+31.647750000003725	EXP	fixa: autoDraw = false
+31.647750000003725	EXP	stim_practice2: pos = [-0.12,-0.12]
+31.647750000003725	EXP	stim_practice2: text = "••"
+31.647750000003725	EXP	grid_2: autoDraw = true
+31.647750000003725	EXP	stim_practice2: autoDraw = true
+32.03849000000628	DATA	Keydown: b
+32.08238000003621	EXP	grid_2: autoDraw = false
+32.08238000003621	EXP	stim_practice2: autoDraw = false
+32.08238000003621	EXP	fixa: autoDraw = true
+32.46150000003399	EXP	fixa: autoDraw = false
+32.46150000003399	EXP	stim_practice2: pos = [0.12,-0.12]
+32.46150000003399	EXP	stim_practice2: text = "•"
+32.46150000003399	EXP	grid_2: autoDraw = true
+32.46150000003399	EXP	stim_practice2: autoDraw = true
+32.90230499999598	DATA	Keydown: n
+32.91525000002002	EXP	grid_2: autoDraw = false
+32.91525000002002	EXP	stim_practice2: autoDraw = false
+32.91525000002002	EXP	fixa: autoDraw = true
+33.31325000000652	EXP	fixa: autoDraw = false
+33.31325000000652	EXP	fixa: autoDraw = false
+33.31325000000652	EXP	stim_practice2: pos = [-0.12,-0.12]
+33.31325000000652	EXP	stim_practice2: text = "•"
+33.31325000000652	EXP	grid_2: autoDraw = true
+33.31325000000652	EXP	stim_practice2: autoDraw = true
+34.15870000002906	DATA	Keydown: n
+34.18614499998512	EXP	grid_2: autoDraw = false
+34.18614499998512	EXP	stim_practice2: autoDraw = false
+34.18614499998512	EXP	instructions3: autoDraw = true
+37.95293000002857	DATA	Keydown:  
+37.9953300000052	EXP	instructions3: autoDraw = false
+37.9953300000052	EXP	fixa: autoDraw = true
+38.44566000002669	EXP	fixa: autoDraw = false
+38.44566000002669	EXP	stimu: pos = [-0.12,0.12]
+38.44566000002669	EXP	stimu: text = "▲"
+38.44566000002669	EXP	stimu: autoDraw = true
+38.44566000002669	EXP	image: autoDraw = true
+39.046005000011064	DATA	Keydown: ArrowLeft
+39.0893100000103	EXP	stimu: autoDraw = false
+39.0893100000103	EXP	image: autoDraw = false
+39.0893100000103	EXP	fixa: autoDraw = true
+39.469544999999925	EXP	fixa: autoDraw = false
+39.469544999999925	EXP	stimu: pos = [0.12,0.12]
+39.469544999999925	EXP	stimu: text = "∎"
+39.469544999999925	EXP	stimu: autoDraw = true
+39.469544999999925	EXP	image: autoDraw = true
+39.938620000029914	DATA	Keydown: ArrowRight
+39.95117499999469	EXP	stimu: autoDraw = false
+39.95117499999469	EXP	image: autoDraw = false
+39.95117499999469	EXP	fixa: autoDraw = true
+40.35217999998713	EXP	fixa: autoDraw = false
+40.35217999998713	EXP	fixa: autoDraw = false
+40.35217999998713	EXP	stimu: pos = [0.12,-0.12]
+40.35217999998713	EXP	stimu: text = "•"
+40.35217999998713	EXP	stimu: autoDraw = true
+40.35217999998713	EXP	image: autoDraw = true
+41.219894999987446	DATA	Keydown: n
+41.23481500003254	EXP	stimu: autoDraw = false
+41.23481500003254	EXP	image: autoDraw = false
+41.23481500003254	EXP	fixa: autoDraw = true
+41.63824499998009	EXP	fixa: autoDraw = false
+41.63824499998009	EXP	fixa: autoDraw = false
+41.63824499998009	EXP	stimu: pos = [-0.12,-0.12]
+41.63824499998009	EXP	stimu: text = "••"
+41.63824499998009	EXP	stimu: autoDraw = true
+41.63824499998009	EXP	image: autoDraw = true
+42.62800500000594	DATA	Keydown: n
+42.635699999984354	EXP	stimu: autoDraw = false
+42.635699999984354	EXP	image: autoDraw = false
+42.635699999984354	EXP	fixa: autoDraw = true
+43.03884500003187	EXP	fixa: autoDraw = false
+43.03884500003187	EXP	fixa: autoDraw = false
+43.03884500003187	EXP	stimu: pos = [-0.12,0.12]
+43.03884500003187	EXP	stimu: text = "▲"
+43.03884500003187	EXP	stimu: autoDraw = true
+43.03884500003187	EXP	image: autoDraw = true
+43.68921500002034	DATA	Keydown: ArrowLeft
+43.700155000027735	EXP	stimu: autoDraw = false
+43.700155000027735	EXP	image: autoDraw = false
+43.700155000027735	EXP	fixa: autoDraw = true
+44.1047350000008	EXP	fixa: autoDraw = false
+44.1047350000008	EXP	fixa: autoDraw = false
+44.1047350000008	EXP	stimu: pos = [0.12,0.12]
+44.1047350000008	EXP	stimu: text = "▲"
+44.1047350000008	EXP	stimu: autoDraw = true
+44.1047350000008	EXP	image: autoDraw = true
+44.982629999984056	DATA	Keydown: ArrowLeft
+45.00054999999702	EXP	stimu: autoDraw = false
+45.00054999999702	EXP	image: autoDraw = false
+45.00054999999702	EXP	fixa: autoDraw = true
+45.401914999994915	EXP	fixa: autoDraw = false
+45.401914999994915	EXP	fixa: autoDraw = false
+45.401914999994915	EXP	stimu: pos = [0.12,-0.12]
+45.401914999994915	EXP	stimu: text = "••"
+45.401914999994915	EXP	stimu: autoDraw = true
+45.401914999994915	EXP	image: autoDraw = true
+46.081760000030044	DATA	Keydown: n
+46.09581500000786	EXP	stimu: autoDraw = false
+46.09581500000786	EXP	image: autoDraw = false
+46.09581500000786	EXP	fixa: autoDraw = true
+46.497979999985546	EXP	fixa: autoDraw = false
+46.497979999985546	EXP	fixa: autoDraw = false
+46.497979999985546	EXP	stimu: pos = [-0.12,-0.12]
+46.497979999985546	EXP	stimu: text = "•"
+46.497979999985546	EXP	stimu: autoDraw = true
+46.497979999985546	EXP	image: autoDraw = true
+47.07280999998329	DATA	Keydown: b
+47.08646999998018	EXP	stimu: autoDraw = false
+47.08646999998018	EXP	image: autoDraw = false
+47.08646999998018	EXP	fixa: autoDraw = true
+47.48191500001121	EXP	fixa: autoDraw = false
+47.48191500001121	EXP	fixa: autoDraw = false
+47.48191500001121	EXP	stimu: pos = [-0.12,0.12]
+47.48191500001121	EXP	stimu: text = "∎"
+47.48191500001121	EXP	stimu: autoDraw = true
+47.48191500001121	EXP	image: autoDraw = true
+48.067160000035074	DATA	Keydown: ArrowRight
+48.08033000002615	EXP	stimu: autoDraw = false
+48.08033000002615	EXP	image: autoDraw = false
+48.08033000002615	EXP	fixa: autoDraw = true
+48.48045000003185	EXP	fixa: autoDraw = false
+48.48045000003185	EXP	fixa: autoDraw = false
+48.48045000003185	EXP	stimu: pos = [0.12,0.12]
+48.48045000003185	EXP	stimu: text = "▲"
+48.48045000003185	EXP	stimu: autoDraw = true
+48.48045000003185	EXP	image: autoDraw = true
+49.476299999980256	DATA	Keydown: ArrowLeft
+49.49427500000456	EXP	stimu: autoDraw = false
+49.49427500000456	EXP	image: autoDraw = false
+49.49427500000456	EXP	fixa: autoDraw = true
+49.89521500002593	EXP	fixa: autoDraw = false
+49.89521500002593	EXP	fixa: autoDraw = false
+49.89521500002593	EXP	stimu: pos = [0.12,-0.12]
+49.89521500002593	EXP	stimu: text = "•"
+49.89521500002593	EXP	stimu: autoDraw = true
+49.89521500002593	EXP	image: autoDraw = true
+50.9278199999826	DATA	Keydown: b
+50.94151500001317	EXP	stimu: autoDraw = false
+50.94151500001317	EXP	image: autoDraw = false
+50.94151500001317	EXP	fixa: autoDraw = true
+51.341645000036806	EXP	fixa: autoDraw = false
+51.341645000036806	EXP	fixa: autoDraw = false
+51.341645000036806	EXP	stimu: pos = [-0.12,-0.12]
+51.341645000036806	EXP	stimu: text = "•"
+51.341645000036806	EXP	stimu: autoDraw = true
+51.341645000036806	EXP	image: autoDraw = true
+52.05009999999311	DATA	Keydown: b
